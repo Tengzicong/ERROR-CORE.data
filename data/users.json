@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "mmg48eryofjnakml2lg",
+      "username": "zicong9207",
+      "password": "TZCtzc20150121",
+      "displayName": "ERROR-CORE",
+      "email": "superadmin@localhost",
+      "role": "super_admin",
+      "status": "active",
+      "certification": "developer",
+      "createdAt": "2026-03-07T09:23:11.182Z"
+    }
+  ]
+}
