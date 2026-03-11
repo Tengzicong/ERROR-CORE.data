@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": "mmg48u5c15e0mk568h8",
+      "id": "mmlsy6o2mc9wnz5t4j",
       "username": "zicong9207",
       "password": "TZCtzc20150121",
       "displayName": "ERROR-CORE",
@@ -9,18 +9,7 @@
       "role": "super_admin",
       "status": "active",
       "certification": "developer",
-      "createdAt": "2026-03-07T09:23:31.104Z"
-    },
-    {
-      "id": "mmgc8kgfhqrqv77psxd",
-      "username": "ERROR_CORE",
-      "password": "TZCtzc20150121",
-      "displayName": "ERROR-CORE精选",
-      "email": "t18519249207@163.com",
-      "role": "user",
-      "uid": "HJY00000",
-      "createdAt": "2026-03-07T13:07:15.471Z",
-      "lastLogin": "2026-03-11T03:15:20.721Z"
+      "createdAt": "2026-03-11T08:53:55.394Z"
     }
   ]
 }
