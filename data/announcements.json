@@ -1,3 +1,14 @@
 {
-  "announcements": []
+  "announcements": [
+    {
+      "id": "mmmmnsypo7eivr7bf9",
+      "title": "系统公告",
+      "content": "欢迎使用作品集系统！这里是公告内容，支持多行显示。",
+      "author": "管理员",
+      "createdAt": "2026-03-11T22:45:39.553Z",
+      "isPinned": true,
+      "isCarousel": true,
+      "isActive": true
+    }
+  ]
 }
