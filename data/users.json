@@ -10,6 +10,16 @@
       "status": "active",
       "certification": "developer",
       "createdAt": "2026-03-11T08:53:55.394Z"
+    },
+    {
+      "id": "mmlxkzik6f0jdw1g2q",
+      "username": "ERROR_CORE",
+      "password": "TZCtzc20150121",
+      "displayName": "ERROR-CORE精选",
+      "email": "t18519249207@163.com",
+      "role": "user",
+      "uid": "LBH00000",
+      "createdAt": "2026-03-11T11:03:37.676Z"
     }
   ]
 }
