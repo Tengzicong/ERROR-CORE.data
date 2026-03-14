@@ -1,3 +1,14 @@
 {
-  "announcements": []
+  "announcements": [
+    {
+      "id": "mmq6gykx9zvwyo81gne",
+      "title": "欢迎访问",
+      "content": "欢迎来到我的作品集网站！",
+      "author": "ERROR-CORE",
+      "createdAt": "2026-03-14T10:23:31.089Z",
+      "isPinned": true,
+      "isCarousel": true,
+      "isActive": true
+    }
+  ]
 }
